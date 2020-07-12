@@ -1,16 +1,20 @@
-### Hi there 👋
+# Augusto Alvarez - laugustol
 
-<!--
-**laugustol/laugustol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Build Status](https://avatars1.githubusercontent.com/u/14079132?s=400&u=774e76bee061eaae4890f03567c17f87a55c1f7d&v=4)
 
-Here are some ideas to get you started:
+# Languages and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - PHP
+  - JavaScript
+  - Css
+  - HTML
+  - SQL
+  - GraphQL
+  - ReactJS
+  - Python
+  - React-Native
+  - Ionic
+  - NodeJS
+  - Git
+  - AngularJS
+  - MeteorJS
